@@ -1,0 +1,14 @@
+C:\Users\Евгений\RiderProjects\CarService\CarService\bin\Debug\net8.0\CarService.exe
+C:\Users\Евгений\RiderProjects\CarService\CarService\bin\Debug\net8.0\CarService.deps.json
+C:\Users\Евгений\RiderProjects\CarService\CarService\bin\Debug\net8.0\CarService.runtimeconfig.json
+C:\Users\Евгений\RiderProjects\CarService\CarService\bin\Debug\net8.0\CarService.dll
+C:\Users\Евгений\RiderProjects\CarService\CarService\bin\Debug\net8.0\CarService.pdb
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.AssemblyInfoInputs.cache
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.AssemblyInfo.cs
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.dll
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\refint\CarService.dll
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.pdb
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\CarService.genruntimeconfig.cache
+C:\Users\Евгений\RiderProjects\CarService\CarService\obj\Debug\net8.0\ref\CarService.dll
